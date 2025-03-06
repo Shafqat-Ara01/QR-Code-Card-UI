@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(136, 214, 214);
+}
+#QrCode-car {
+  height: 350px;
+  width: 220px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.content {
+  padding-left: 9px;
+}
+#QrCode-car img {
+  border-radius: 10px;
+}
+h3 {
+  font-family: poppins;
+  font-size: 15px;
+  text-align: center;
+}
+p {
+  color: rgb(117, 113, 113);
+  font-family: poppins;
+  font-size: 12px;
+  text-align: center;
+}
